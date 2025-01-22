@@ -15,11 +15,6 @@ my-electron-app/
 │   │   │   ├── App.vue         # Vue 主组件
 │   │   │   ├── main.ts         # Vue 入口文件
 │   │   │   └── index.html      # Vue 入口 HTML
-│   │   ├── angular-app/        # Angular 应用
-│   │   │   ├── src/            # Angular 源代码
-│   │   │   │   ├── app/        # Angular 组件
-│   │   │   │   └── main.ts     # Angular 入口文件
-│   │   │   └── index.html      # Angular 入口 HTML
 │   │   ├── svelte-app/         # Svelte 应用
 │   │   │   ├── App.svelte      # Svelte 主组件
 │   │   │   ├── main.ts         # Svelte 入口文件
