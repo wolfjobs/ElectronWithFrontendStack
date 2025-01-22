@@ -1,0 +1,11 @@
+{
+  "architect": {
+    "build": {
+      "options": {
+        "aot": false,
+        "main": "src/main.ts",
+        "tsConfig": "tsconfig.app.json"
+      }
+    }
+  }
+}
